@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prettyXml>
+    <testBoolean>false</testBoolean>
+    <testNull></testNull>
+    <testNumber>5</testNumber>
+    <testString>hello"</testString>
+    <testArray>
+        <cell>cell1</cell>
+        <cell>cell2</cell>
+    </testArray>
+</prettyXml>

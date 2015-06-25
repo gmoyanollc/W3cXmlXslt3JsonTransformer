@@ -1,0 +1,10 @@
+{
+    "testBoolean": false,
+    "testNull": null,
+    "testNumber": 5,
+    "testString": "hello",
+    "testArray": [
+        "cell1",
+        "cell2"
+    ]
+}

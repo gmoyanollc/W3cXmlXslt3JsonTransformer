@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map xmlns="http://www.w3.org/2013/XSL/json" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.w3.org/2013/XSL/json file:../www.w3.org/schema-for-json.xsd">
+    <boolean key="testBoolean" escaped-key="false">false</boolean>
+    <null key="testNull" escaped-key="false"/>
+    <number key="testNumber" escaped-key="false">5</number>
+    <string key="testString" escaped-key="false" escaped="true">hello</string>
+    <array key="testArray" escaped-key="false">
+        <string escaped="false">cell1</string>
+        <string escaped="false">cell2</string>
+    </array>
+</map>
